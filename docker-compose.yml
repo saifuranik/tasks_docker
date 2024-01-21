@@ -1,0 +1,14 @@
+services:
+  #backend
+  api:
+  #build
+  #mount backend app logs from docker container to outside logs directory
+  
+  #front end
+  client:
+  #nginx container  
+  nginx:
+
+
+
+    
