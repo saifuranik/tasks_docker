@@ -1,8 +1,8 @@
 # Complete these tasks
 
- - [ ] make a mongodb database (cloud/local container/local server)
- - [ ]  connect mongodb from backend
- - [ ] write dockerfile and dockerize backend
+ - [ x ] make a mongodb database (cloud/local container/local server)
+ - [ x ]  connect mongodb from backend
+ - [ x ] write dockerfile and dockerize backend
  - [ ] write docker file for frontend
 	 - [ ] use multistage build
 	 - [ ] build front end at first stage using node light weight image
